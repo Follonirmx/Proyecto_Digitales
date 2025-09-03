@@ -2,16 +2,16 @@
 
 <h2 align="center">Grupo 2</h2>
 
-<h2 align="center">Integrantes</h2>
+<p align = "center">
 - David Díaz Suesca
 - Jonatan Díaz Vargas
 - David Santiago López  
+</p>
 
-<h2 align="center">Fecha</h2>
-3 de septiembre de 2025
 
-<h2 align="center">Materia</h2>
-Sistemas Digitales III
+<p align = "center"> 3 de septiembre de 2025 <p>
+
+<p align = "center"> Sistemas Digitales III </p>
 
 ---
 
